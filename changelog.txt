@@ -1,0 +1,8 @@
+🤩 Fixes for SafetyNet and Google Pay
+🔐 Includes the February security patch
+🔋 Fixes Battery drain issues
+🔊 Fixed audio issue in some apps
+🌐 Changed LTE icon to 4G
+📱 Update blobs to V14.0.1.0.TLMMIXM
+🎙 Fixed mic issue in google recorder
+🥞 Improved overall smoothness
