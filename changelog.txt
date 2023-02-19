@@ -6,3 +6,5 @@
 📱 Update blobs to V14.0.1.0.TLMMIXM
 🎙 Fixed mic issue in google recorder
 🥞 Improved overall smoothness
+
+Note:- Use global fw V14.0.1.0.TLMMIXM
